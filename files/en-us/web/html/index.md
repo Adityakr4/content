@@ -38,7 +38,7 @@ The articles below can help you learn more about HTML.
 >
 > [**Get started**](/en-US/docs/Learn/Front-end_web_developer)
 
-## Beginner's tutorials
+## For Beginner's
 
 Our [HTML Learning Area](/en-US/docs/Learn/HTML) features multiple modules that teach HTML from the ground up — no previous knowledge required.
 
